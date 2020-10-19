@@ -15,4 +15,5 @@
 
 >> Date: 19-10-2020
 7. 
-![images/Equations.jpeg]
+<img src="images/Equations.jpeg" width="100" height"10">
+
