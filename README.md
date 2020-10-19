@@ -14,6 +14,6 @@
 6. Demonstrate the use of Matplotlib library
 
 >> Date: 19-10-2020
-7. 
-<img src="images/Equations.jpeg" width="100" height"10">
+7. Plot the following equations using Matplotlib:
+![](images/Equations.jpeg)
 
