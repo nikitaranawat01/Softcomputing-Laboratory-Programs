@@ -15,3 +15,4 @@
 
 >> Date: 19-10-2020
 7. 
+![images/Equations.jpeg]
